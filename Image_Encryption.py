@@ -1,3 +1,5 @@
+#PRODIGY_CS_02
+
 from PIL import Image
 import numpy as np
 
