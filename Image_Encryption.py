@@ -1,4 +1,4 @@
-#PRODIGY_CS_02
+#PRODIGY_CS_02 - IMAGE_ENCRYPTION
 
 from PIL import Image
 import numpy as np
